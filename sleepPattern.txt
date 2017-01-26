@@ -1,0 +1,11 @@
+Yellow alert appeared 1 times
+
+Yellow alert was ignored 1 times
+
+Red alert appeared 1 times
+
+Red alert was ignored 0 times
+
+You woke up 0.0 % of the time either early or due to the alert
+
+Your trusted email: 
